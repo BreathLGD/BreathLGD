@@ -1,8 +1,4 @@
-Hi there 👋
-<!--
-**BreathLGD/BreathLGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 
 
 - 🔭 I’m currently maintaing Miui14 & HyperOS based special project SpeedOS for Redmi Note 12 Pro Speed / Poco X5 Pro
 - 🌱 I’m currently learning Android Development 
